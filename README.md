@@ -26,7 +26,7 @@ I am a **Cyber Security Student** selected for the **Center of Excellence (CoE)*
 
 | Project | Type | Description |
 | :--- | :--- | :--- |
-| **🔒 [403-Forbidden](https://github.com/HitroBro/403-Forbidden)** | **Security / OS** | An automated proximity security system that uses **Bluetooth RSSI** (via Arduino/Python) to lock/unlock my workstation. |
+| **🔒 [403-Forbidden](https://github.com/HitroBro/403-Forbidden)** | **Endpoint Security** | An automated proximity security daemon that monitors **Bluetooth RSSI** to auto-lock the workstation when the user walks away. ||
 | **📺 [Modern-YTDLP-GUI](https://github.com/HitroBro/Modern-YTDLP-GUI)** | **Automation** | A threaded, responsive desktop GUI for `yt-dlp` featuring a custom Modern UI engine. |
 | **📂 [NeoShare](https://github.com/HitroBro/NeoShare-Local-Cloud)** | **Network / Backend** | A custom HTTP file server built from scratch with **Zero Dependencies**. |
 
