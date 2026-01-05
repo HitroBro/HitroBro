@@ -59,9 +59,6 @@ I am a **Cyber Security Student** selected for the **Center of Excellence (CoE)*
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HitroBro&show_icons=true&theme=radical" alt="Hitarth's GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=HitroBro&theme=radical" alt="Hitarth's Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HitroBro&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
