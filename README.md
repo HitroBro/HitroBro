@@ -11,6 +11,9 @@
   <a href="https://HitroBro.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://github.com/HitroBro?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View_All-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -33,9 +36,9 @@
 
 I'm a **Cyber Security Student** selected for the **Center of Excellence (CoE)** track at Parul University. My focus sits at the intersection of **Network Infrastructure** (CCNA-level routing/switching) and **Security Automation** (Python tooling, C systems programming).
 
-- 🔭 **Currently building:** High-concurrency async TCP gateway in C (`epoll`, `timerfd`, `signalfd`)
-- 🧠 **Deeply studying:** Network Engineering, Packet Analysis, eBPF/XDP, Linux Kernel Networking
-- 💬 **Ask me about:** TCP/IP internals, epoll event loops, Python automation, Linux hardening
+- 🔭 **Currently building:** High-concurrency async TCP gateway in C (`epoll`, `timerfd`, `signalfd`) with eBPF/XDP integration
+- 🧠 **Deeply studying:** Network Engineering, Packet Analysis, eBPF/XDP, Linux Kernel Networking, `io_uring`
+- 💬 **Ask me about:** TCP/IP internals, epoll event loops, Python automation, Linux hardening, BPF verifier
 - ⚡ **Fun fact:** I would tell you a UDP joke, but you probably wouldn't get it.
 
 ---
@@ -58,7 +61,7 @@ I'm a **Cyber Security Student** selected for the **Center of Excellence (CoE)**
 | Repository | Description | Stack | Status |
 |------------|-------------|-------|--------|
 | [![async-tcp-gateway](https://github-readme-stats.vercel.app/api/pin/?username=HitroBro&repo=async-tcp-gateway&theme=radical&hide_border=true)](https://github.com/HitroBro/async-tcp-gateway) | **High-concurrency Layer 4 TCP Gateway** — epoll-based async proxy with round-robin LB, instant failover, async health checks, IPv6 dual-stack, rate limiting, SIGUSR1 metrics | `C11` `epoll` `timerfd` `signalfd` `Python` (tests) | ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) |
-| [![HitroBro.github.io](https://github-readme-stats.vercel.app/api/pin/?username=HitroBro&repo=HitroBro.github.io&theme=radical&hide_border=true)](https://github.com/HitroBro/HitroBro.github.io) | **PyScript Terminal Portfolio** — Interactive browser terminal running Python in WebAssembly (zero JavaScript logic) | `PyScript` `Python` `WASM` `HTML5/CSS3` | ![Live](https://img.shields.io/badge/demo-live-blue?style=flat-square) |
+| [![HitroBro.github.io](https://github-readme-stats.vercel.app/api/pin/?username=HitroBro&repo=HitroBro.github.io&theme=radical&hide_border=true)](https://github.com/HitroBro/HitroBro.github.io) | **Pelican Portfolio** — Static site with Jinja2, interactive network demos (subnet calc, packet viz, TCP state machine), blog, projects | `Python` `Pelican` `Jinja2` `Vanilla JS` | ![Live](https://img.shields.io/badge/demo-live-blue?style=flat-square) |
 | [![NeoShare-Local-Cloud](https://github-readme-stats.vercel.app/api/pin/?username=HitroBro&repo=NeoShare-Local-Cloud&theme=radical&hide_border=true)](https://github.com/HitroBro/NeoShare-Local-Cloud) | **Zero-Dependency HTTP File Server** — Threaded architecture, directory traversal protection, Range streaming, auto tar.gz, dark mode | `Python 3` `http.server` `Threading` `Vanilla JS` | ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) |
 
 </div>
@@ -87,6 +90,7 @@ I'm a **Cyber Security Student** selected for the **Center of Excellence (CoE)**
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="44" height="44" title="Git" /></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="44" height="44" title="Docker" /></a>
   <a href="https://www.wireshark.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original-wordmark.svg" alt="Wireshark" width="44" height="44" title="Wireshark" /></a>
+  <a href="https://ebpf.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ebpf/ebpf-original.svg" alt="eBPF" width="44" height="44" title="eBPF" /></a>
 </p>
 
 #### Networking & Protocols
@@ -94,18 +98,21 @@ I'm a **Cyber Security Student** selected for the **Center of Excellence (CoE)**
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/http/http-original.svg" alt="HTTP" width="44" height="44" title="HTTP/1.1" /></a>
   <a href="https://www.tcpdump.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tcpdump/tcpdump-original.svg" alt="tcpdump" width="44" height="44" title="tcpdump" /></a>
   <a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="44" height="44" title="nginx" /></a>
+  <a href="https://www.haproxy.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haproxy/haproxy-original.svg" alt="HAProxy" width="44" height="44" title="HAProxy" /></a>
 </p>
 
 #### Web & Frontend (for tooling/portfolios)
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="44" height="44" title="HTML5" /></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="44" height="44" title="CSS3" /></a>
-  <a href="https://pyscript.net/"><img src="https://pyscript.net/assets/logo.png" alt="PyScript" width="44" height="44" title="PyScript" /></a>
+  <a href="https://getpelican.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pelican/pelican-original.svg" alt="Pelican" width="44" height="44" title="Pelican" /></a>
+  <a href="https://jinja.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jinja/jinja-original.svg" alt="Jinja2" width="44" height="44" title="Jinja2" /></a>
 </p>
 
 #### Hardware & Embedded
 <p align="left">
   <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="44" height="44" title="Arduino" /></a>
+  <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="44" height="44" title="Raspberry Pi" /></a>
 </p>
 
 ---
@@ -123,6 +130,26 @@ I'm a **Cyber Security Student** selected for the **Center of Excellence (CoE)**
 - **B.Tech Cyber Security (CoE Track)** — Parul University *(Current)*
 - **CCNA** — Cisco Certified Network Associate *(In Progress / Studying)*
 - **Linux System Administration** — Self-taught / Lab practice
+- **OSCP** — Offensive Security Certified Professional *(Preparing)*
+
+---
+
+### 🔗 Quick Links
+
+<p align="center">
+  <a href="https://HitroBro.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-HitroBro.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/HitroBro/async-tcp-gateway">
+    <img src="https://img.shields.io/badge/Flagship_Project-async--tcp--gateway-00d47e?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://github.com/HitroBro/NeoShare-Local-Cloud">
+    <img src="https://img.shields.io/badge/Python_Project-NeoShare-00b4ff?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/HitroBro/HitroBro.github.io">
+    <img src="https://img.shields.io/badge/Portfolio_Source-Pelican-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
 
 ---
 
