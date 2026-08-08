@@ -21,13 +21,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HitroBro&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitroBro&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HitroBro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitroBro&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HitroBro&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HitroBro&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HitroBro&theme=radical&hide_border=true&background=141321&stroke=fe428e&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HitroBro&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true&area_color=fe428e" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HitroBro&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HitroBro&theme=radical&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HitroBro&show_icons=false&theme=radical&hide_border=true&custom_title=Repository%20Stats&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
 </p>
 
 ---
